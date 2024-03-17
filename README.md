@@ -6,24 +6,25 @@
 SQL is a powerful tool used for data manipulation and retrieval in relational databases, making it a fundamental language for data professionals. Throughout this project, we will explore the core principles of SQL and learn how to query relational databases efficiently, perform data transformations, and gain proficiency in designing complex queries.
 
 
-UN Data Manipulation
+## UN Data Manipulation
 
-Overview
+#### Overview
 This project is designed for manipulating and analyzing United Nations (UN) data using Python. The repository includes several Python scripts and Jupyter notebooks that demonstrate various data manipulation and analysis techniques applied to UN datasets.
 
-Features
-Data cleaning and preprocessing
-Data visualization
-Statistical analysis
-Machine learning models (if applicable)
-Getting Started
+#### Features
+- Data cleaning and preprocessing
+- Data visualization
+- Statistical analysis
+- Machine learning models (Work in progress)
+
+### Getting Started
 To get started with this project, follow these steps:
 
 Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/The-alpha-male/UN-Data-Manipulation.git
+`git clone https://github.com/The-alpha-male/UN-Data-Manipulation.git`
 Install the required dependencies:
 
 bash
