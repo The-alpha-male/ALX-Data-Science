@@ -20,7 +20,7 @@ This project is designed for manipulating and analyzing United Nations (UN) data
 ### Getting Started
 To get started with this project, follow these steps:
 
-Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 bash
 Copy code
