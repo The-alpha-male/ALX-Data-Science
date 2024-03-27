@@ -60,17 +60,17 @@ Copy code
 jupyter notebook
 Navigate to the notebooks/ directory and open the desired notebook.
 
-File Structure
+## File Structure
 The repository is structured as follows:
 
-data/: Contains the raw data files.
-images/: Stores images used in the README and notebooks.
-notebooks/: Jupyter notebooks for data analysis.
-scripts/: Python scripts for data manipulation and analysis.
-requirements.txt: Lists all required Python packages.
-Contributing
+- data/: Contains the raw data files.
+- images/: Stores images used in the README and notebooks.(to be updated)
+- notebooks/: Jupyter notebooks for data analysis.
+- scripts/: Python scripts for data manipulation and analysis.
+
+## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
