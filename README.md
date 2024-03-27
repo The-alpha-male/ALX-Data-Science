@@ -22,14 +22,14 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-bash
-Copy code
+2. Copy code
 `git clone https://github.com/The-alpha-male/UN-Data-Manipulation.git`
-Install the required dependencies:
+3. Install the required tools:
+  - Jupyter Notebook
+  - MySQL installer
+  - MySQL Workbench 8.0 CE or above
+  - Anaconda Navigator
 
-bash
-Copy code
-pip install -r requirements.txt
 Usage
 Data Preparation
 Before running any analysis, ensure you have the necessary data files. You can download the UN datasets from this link.
