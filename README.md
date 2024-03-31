@@ -30,35 +30,9 @@ To get started with this project, follow these steps:
   - MySQL Workbench 8.0 CE or above
   - Anaconda Navigator
 
-Usage
-Data Preparation
-Before running any analysis, ensure you have the necessary data files. You can download the UN datasets from this link.
-
-Running Scripts
-To clean and preprocess the data, run:
-
-bash
-Copy code
-python data_cleaning.py
-To visualize the data, run:
-
-bash
-Copy code
-python data_visualization.py
-For statistical analysis, execute:
-
-bash
-Copy code
-python statistical_analysis.py
-Running Jupyter Notebooks
-Alternatively, you can explore the analysis in Jupyter notebooks:
-
-Open Jupyter Notebook:
-
-bash
-Copy code
-jupyter notebook
-Navigate to the notebooks/ directory and open the desired notebook.
+### Usage
+- Data Preparation
+  - Before running any analysis, ensure you have the necessary data files. You can download the UN datasets from this link.
 
 ## File Structure
 The repository is structured as follows:
