@@ -1,1 +1,1 @@
-This are Python fundamentals from zero to hero
+This are Python fundamentals in Data Science
